@@ -1,0 +1,571 @@
+# Barrows
+Karil's coif
+Karil's leathertop
+Karil's leatherskirt
+Karil's crossbow
+Ahrim's hood
+Ahrim's robetop
+Ahrim's robeskirt
+Ahrim's staff
+Dharok's helm
+Dharok's platebody
+Dharok's platelegs
+Dharok's greataxe
+Guthan's helm
+Guthan's platebody
+Guthan's chainskirt
+Guthan's warspear
+Torag's helm
+Torag's platebody
+Torag's platelegs
+Torag's hammers
+Verac's helm
+Verac's brassard
+Verac's plateskirt
+Verac's flail
+
+# Chambers of Xeric
+Twisted bow
+Elder maul
+Kodai insignia
+Ancestral hat
+Ancestral robe top
+Ancestral robe bottom
+Dexterous prayer scroll
+Arcane prayer scroll
+Dragon claws
+Dragon hunter crossbow
+Dinh's bulwark
+Twisted buckler
+Onyx
+Metamorphic dust
+Twisted ancestral colour kit
+Torn prayer scroll
+Dark relic
+
+# Champion scrolls
+Imp champion scroll
+Goblin champion scroll
+Skeleton champion scroll
+Zombie champion scroll
+Giant champion scroll
+Hobgoblin champion scroll
+Ghoul champion scroll
+Earth warrior champion scroll
+Jogre champion scroll
+
+# Colosseum
+Echo crystal
+Sunfire fanatic helm
+Sunfire fanatic cuirass
+Sunfire fanatic chausses
+Tonalztics of ralos (uncharged)
+Dizana's quiver (uncharged)
+
+# Corporeal beast
+Elysian sigil
+Arcane sigil
+Spectral sigil
+Holy elixir
+Spirit shield
+
+# Dagannoth kings
+Berserker ring
+Archers ring
+Seers ring
+Warrior ring
+Dragon axe
+Seercull
+Mud battlestaff
+
+# Demonic gorillas
+Zenyte shard
+Light frame
+Heavy frame
+Ballista limbs
+Ballista spring
+Monkey tail
+
+# Doom of Mokhaiotl
+Avernic threads
+Eye of ayak (uncharged)
+Mokhaiotl cloth
+
+# DT2 bosses
+Eye of the duke
+Virtus mask
+Virtus robe top
+Virtus robe bottom
+Magus vestige
+Leviathan's lure
+Venator vestige
+Executioner's axe head
+Ultor vestige
+Siren's staff
+Bellator vestige
+Smoke quartz
+Blood quartz
+Ice quartz
+Shadow quartz
+Chromium ingot
+Awakener's orb
+Gold ring
+
+# Gauntlet
+Crystal armour seed
+Crystal weapon seed
+Enhanced crystal weapon seed
+
+#Gilded and other clue rares
+Team cape zero
+Team cape i
+Team cape x
+Cape of skulls
+Monk's robe top (g)
+Monk's robe (g)
+Gilded platebody
+Gilded platelegs
+Gilded plateskirt
+Gilded full helm
+Gilded kiteshield
+Gilded med helm
+Gilded chainbody
+Gilded sq shield
+Gilded 2h sword
+Gilded spear
+Gilded hasta
+Gilded coif
+Gilded d'hide vambraces
+Gilded d'hide body
+Gilded d'hide chaps
+Gilded pickaxe
+Gilded axe
+Gilded spade
+Ring of nature
+Lava dragon mask
+Bucket helm (g)
+Ring of coins
+Ranger boots
+
+# Godwars dungeon
+Armadyl crossbow
+Saradomin hilt
+Saradomin sword
+Saradomin's light
+Godsword shard 1
+Godsword shard 2
+Godsword shard 3
+Bandos chestplate
+Bandos tassets
+Bandos boots
+Bandos hilt
+Armadyl helmet
+Armadyl chestplate
+Armadyl chainskirt
+Armadyl hilt
+Ancient hilt
+Nihil horn
+Torva full helm (damaged)
+Torva platebody (damaged)
+Torva platelegs (damaged)
+Zaryte vambraces
+Staff of the dead
+Zamorakian spear
+Steam battlestaff
+Zamorak hilt
+Ancient ceremonial mask
+Ancient ceremonial top
+Ancient ceremonial legs
+Ancient ceremonial gloves
+Ancient ceremonial boots
+Blood essence
+
+# Hueycoatl
+Dragon hunter wand
+Tome of earth (empty)
+Hueycoatl hide
+Soiled page
+
+# Jars
+Jar of chemicals
+Jar of darkness
+Jar of decay
+Jar of dirt
+Jar of dreams
+Jar of eyes
+Jar of miasma
+Jar of sand
+Jar of smoke
+Jar of souls
+Jar of spirits
+Jar of stone
+Jar of swamp
+Jar of venom
+Jar of feathers
+
+# Minigames
+Dragon pickaxe (broken)
+Runescroll of bloodbark
+Runescroll of swampbark
+Amulet of the damned (full)
+Gold locks
+Tree wizards' journal
+Bloody notes
+Abyssal blue dye
+Abyssal red dye
+Abyssal green dye
+Abyssal lantern
+
+# Miscellaneous
+Mask of ranul
+Hill giant club
+Bryophyta's essence
+Draconic visage
+Sarachnis cudgel
+Dragon full helm
+Amulet of eternal glory
+Teleport anchoring scroll
+Mystic hat (dusk)
+Mystic robe top (dusk)
+Mystic robe bottom (dusk)
+Mystic gloves (dusk)
+Mystic boots (dusk)
+Elder chaos hood
+Elder chaos top
+Elder chaos robe
+Dark totem
+Bottomless compost bucket
+Long bone
+Curved bone
+Dark claw
+Kq head
+Dagon'hai hat
+Dagon'hai robe top
+Dagon'hai robe bottom
+Shaman mask
+Flippers
+Mudskipper hat
+Broken dragon hasta
+Scurrius' spine
+Evil chicken head
+Evil chicken wings
+Evil chicken legs
+Evil chicken feet
+Dragonstone full helm
+Dragonstone platebody
+Dragonstone platelegs
+Dragonstone boots
+Dragonstone gauntlets
+Blood shard
+Dragon platelegs
+Dragon plateskirt
+Scurrius' spine
+Teleport anchoring scroll
+Elven signet
+Earthbound tecpatl
+Steel ring
+Pharaoh's sceptre (uncharged)
+Antler guard
+Alchemist's signet
+Broken antler
+Horn of plenty (empty)
+Mystic hat
+Mystic robe top
+Mystic robe bottom
+Mystic boots
+Mystic gloves
+Mystic hat (light)
+Mystic robe top (light)
+Mystic robe bottom (light)
+Mystic boots (light)
+Mystic gloves (light)
+Mystic hat (dark)
+Mystic robe top (dark)
+Mystic robe bottom (dark)
+Mystic boots (dark)
+Mystic gloves (dark)
+
+# Muspah
+Venator shard
+Ancient icon
+
+# Nightmare
+Inquisitor's great helm
+Inquisitor's hauberk
+Inquisitor's plateskirt
+Inquisitor's mace
+Eldritch orb
+Harmonised orb
+Volatile orb
+Nightmare staff
+
+# Perilous moons
+Eclipse atlatl
+Eclipse moon helm
+Eclipse moon chestplate
+Eclipse moon tassets
+Blue moon helm
+Blue moon chestplate
+Blue moon tassets
+Blue moon spear
+Dual macuahuitl
+Blood moon chestplate
+Blood moon tassets
+Blood moon helm
+
+# Revenants drops
+Craw's bow (u)
+Thammaron's sceptre (u)
+Viggora's chainmace (u)
+Amulet of avarice
+Ancient emblem
+Ancient totem
+Ancient statuette
+Ancient medallion
+Ancient effigy
+Ancient relic
+Ancient crystal
+
+# Royal titans
+Mystic vigour prayer scroll
+Deadeye prayer scroll
+Fire element staff crown
+Ice element staff crown
+
+# Sailing related
+Belle's folly (tarnished)
+Barracuda paint
+Shark paint
+Inky paint
+Angler's paint
+Salvor's paint
+Armadylean paint
+Zamorakian paint
+Guthixian paint
+Saradominist paint
+Merchant's paint
+Sandy paint
+Dragon metal sheet
+Dragon nails
+Dragon cannonball
+Echo pearl
+Swift albatross feather
+Narwhal horn
+Ray barbs
+Broken dragon hook
+Bottled storm
+Dragon cannon barrel
+Boat bottle (empty)
+
+# Skilling content
+Tome of water (empty)
+Tome of fire (empty)
+Pyromancer garb
+Pyromancer hood
+Pyromancer robe
+Pyromancer boots
+Warm gloves
+Bruma torch
+Ring of endurance (uncharged)
+Enhanced crystal teleport seed
+Crystal tool seed
+Zalcano shard
+Big bass
+Big swordfish
+Big shark
+Big harpoonfish
+Golden tench
+Burnt page
+Soaked page
+
+# Slayer bosses
+Unsired
+Bludgeon axon
+Bludgeon claw
+Bludgeon spine
+Alchemical hydra heads
+Hydra's eye
+Hydra's fang
+Hydra's heart
+Hydra's claw
+Hydra tail
+Hydra leather
+Dragon knife
+Dragon thrownaxe
+Dragon harpoon
+Glacial temotli
+Araxyte fang
+Noxious point
+Noxious blade
+Noxious pommel
+Araxyte head
+Eternal crystal
+Pegasian crystal
+Primordial crystal
+Smouldering stone
+Black tourmaline core
+Granite gloves
+Granite hammer
+Granite ring
+Kraken tentacle
+Trident of the seas (full)
+Smoke battlestaff
+Occult necklace
+Dragon chainbody
+
+# Slayer monster uniques
+Dust battlestaff
+Mist battlestaff
+Imbued heart
+Eternal gem
+Uncharged trident
+Basilisk jaw
+Dragon warhammer
+Dragon limbs
+Dragon metal lump
+Dragon metal slice
+Abyssal dagger
+Abyssal whip
+Aranea boots
+Dragon sword
+Drake's tooth
+Drake's claw
+Leaf-bladed sword
+Leaf-bladed battleaxe
+Granite longsword
+Granite boots
+Kurask head
+Cockatrice head
+Basilisk head
+Kbd heads
+Sulphur blades
+Broken zombie axe
+Broken zombie helmet
+Black mask (10)
+Wyvern visage
+Burning claw
+Tormented synapse
+Abyssal head
+Crawling hand
+Granite maul
+Brine sabre
+Granite legs
+Dark bow
+Dragon boots
+Warped sceptre (uncharged)
+Granite helm
+
+# Theatre of Blood
+Scythe of vitur (uncharged)
+Ghrazi rapier
+Sanguinesti staff (uncharged)
+Avernic defender hilt
+Justiciar faceguard
+Justiciar chestguard
+Justiciar legguards
+Vial of blood
+Holy ornament kit
+Sanguine ornament kit
+Sanguine dust
+
+# Third age
+3rd age full helmet
+3rd age platebody
+3rd age platelegs
+3rd age kiteshield
+3rd age plateskirt
+3rd age longsword
+3rd age mage hat
+3rd age robe top
+3rd age robe
+3rd age amulet
+3rd age wand
+3rd age range coif
+3rd age range top
+3rd age range legs
+3rd age vambraces
+3rd age bow
+3rd age druidic robe top
+3rd age druidic robe bottoms
+3rd age druidic cloak
+3rd age druidic staff
+Ring of 3rd age
+3rd age axe
+3rd age pickaxe
+3rd age cloak
+
+# Tombs of Amascut
+Tumeken's shadow (uncharged)
+Masori mask
+Masori body
+Masori chaps
+Elidinis' ward
+Lightbearer
+Osmumten's fang
+Cursed phalanx
+Breach of the scarab
+Eye of the corruptor
+Jewel of the sun
+Jewel of amascut
+Thread of elidinis
+Cache of runes
+Masori crafting kit
+Menaphite ornament kit
+Remnant of akkha
+Remnant of ba-ba
+Remnant of kephri
+Remnant of zebak
+Ancient remnant
+Cursed phalanx
+
+# Tzhaar
+Obsidian helmet
+Obsidian platebody
+Obsidian platelegs
+Tzhaar-ket-om
+Toktz-xil-ak
+Toktz-xil-ek
+Toktz-mej-tal
+Toktz-xil-ul
+Toktz-ket-xil
+Obsidian cape
+
+# Vorkath
+Skeletal visage
+Dragonbone necklace
+Vorkath's head
+
+# Wilderness bosses
+Tyrannical ring
+Dragon pickaxe
+Dragon 2h sword
+Claws of callisto
+Voidwaker hilt
+Treasonous ring
+Fangs of venenatis
+Voidwaker gem
+Ring of the gods
+Skull of vet'ion
+Voidwaker blade
+Malediction shard 1
+Malediction shard 2
+Malediction shard 3
+Odium shard 1
+Odium shard 2
+Odium shard 3
+Fedora
+
+# Yama
+Oathplate helm
+Oathplate chest
+Oathplate legs
+Soulflame horn
+Rite of vile transference
+
+# Zulrah
+Uncut onyx
+Magic fang
+Tanzanite fang
+Serpentine visage
+Magma mutagen
+Tanzanite mutagen
